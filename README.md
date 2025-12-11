@@ -4,6 +4,7 @@
 Web application สำหรับเช็คสภาพอากาศทั่วโลกแบบ Real-time พร้อมธีมร้านกาแฟ Pixel Art สุดน่ารัก
 Link = https://dparamet.github.io/Weather-Web-frontend/ (butwithout background for quick visit)
 <img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/dc8a7f8b-c574-48c2-89b1-2d05df91f5b2" />) 
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/5a9c8ba8-6543-4d19-91a6-f74e177df96d" />
 
 
 ## 🌟 ฟีเจอร์หลัก (Features)
@@ -22,4 +23,4 @@ Link = https://dparamet.github.io/Weather-Web-frontend/ (butwithout background f
 
 1. Clone โปรเจกต์นี้ลงเครื่อง
    ```bash
-   git clone [https://github.com/yourusername/weather-app.git](https://github.com/yourusername/weather-app.git)
+   git clone https://github.com/Dparamet/Weather-Web-frontend.git
