@@ -1,0 +1,110 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+#weather-search {
+  background-color: rgba(184, 174, 145, 0.323);
+  border-radius: 10px;
+  border: none;
+  text-align: center;
+
+  padding: 15px;
+  padding-bottom: 20px;
+  font-size: 16px;
+  width: 90%;
+  max-width:600px;
+  
+  margin: auto;
+  
+}
+
+input {
+    border: none; 
+    padding: 10px; 
+    border-radius: 10px; 
+    font-family: inherit;
+    margin-right: 5px;
+    text-align: center; 
+}
+
+button {
+    border: none;
+    padding: 10px 20px; 
+    margin-left: 5px; 
+    margin-top: 15px; 
+    border-radius: 10px;
+    background-color: #fadac383; 
+    color: white; 
+    cursor: pointer; 
+    font-family: inherit;
+}
+button:hover {
+    background-color: #fadac3;
+    color: rgb(0, 0, 0); 
+}
+
+body{
+    background-image: url(/img/background_img.png);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    color: rgba(247, 235, 211, 0.832);
+    font-family:'inherit';
+    transition: background-image 0.8s ease-in-out;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 70vh;
+  
+}
+
+h1 {
+  font-size: 55px; 
+  margin-bottom: 20px; 
+}
+h2 {
+  font-size: 32px; 
+  margin-bottom: 20px;
+   
+}
+input, button {
+    font-size: 20px;   
+    padding: 10px 20px;
+}
+
+#weather-Show {
+    background-color: rgba(184, 174, 145, 0.4); 
+    border-radius: 15px;       
+    padding: 30px;             
+    margin: 20px auto;         
+    width: 90%;                
+    max-width: 600px;
+    text-align: center;        
+    color: white;              
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2); 
+}
+
+
+#weather-Show h2 {
+    font-size: 40px;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5); 
+}
+
+
+#weather-Show p {
+    font-size: 20px;
+    margin: 10px 0;
+    line-height: 1.5; 
+}
+
+
+#weather-Show img {
+    width: 120px;        
+    filter: drop-shadow(0 0 10px rgba(255,255,255,0.5)); 
+}
+
