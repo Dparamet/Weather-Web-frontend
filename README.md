@@ -2,8 +2,8 @@
 # 🌤️ Weather Checker App
 
 Web application สำหรับเช็คสภาพอากาศทั่วโลกแบบ Real-time พร้อมธีมร้านกาแฟ Pixel Art สุดน่ารัก
-
-![Project Screenshot]<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/dc8a7f8b-c574-48c2-89b1-2d05df91f5b2" />) 
+Link = https://dparamet.github.io/Weather-Web-frontend/ (butwithout background for quick visit)
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/dc8a7f8b-c574-48c2-89b1-2d05df91f5b2" />) 
 
 
 ## 🌟 ฟีเจอร์หลัก (Features)
